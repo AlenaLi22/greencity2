@@ -57,3 +57,15 @@ nav, nav a, footer {
 .content-wrapper p {
     padding: 20px;
 }
+.text {
+    background: url("../img/banner.png");
+    color: white;
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 150px;
+}
+.text 
